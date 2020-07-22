@@ -1,0 +1,6 @@
+pandas
+pyarrow
+redis
+numpy
+tensorflow
+opencv-python
