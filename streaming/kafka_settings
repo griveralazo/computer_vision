@@ -1,0 +1,6 @@
+## This file will contains kafka modules and settings ## 
+## The main idea its because its a computer vision software,
+## it takes different objects types from different sources 
+## and it has to deal with streaming of those inputs in
+## parallel, so kafka will be used.
+
